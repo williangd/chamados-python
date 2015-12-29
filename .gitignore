@@ -1,0 +1,6 @@
+.git
+.idea
+.chamados
+*pyc
+__pycache__
+staticfiles
